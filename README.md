@@ -62,18 +62,6 @@ Performance Test Engineer focused on **load, stress, volume, and capacity testin
 - Métricas e validações  
 - Estrutura reutilizável para projetos reais  
 
-⭐ **JMeter Distributed Testing Examples**
-➡️ https://github.com/alexamericob/jmeter-distributed-testing  
-- Correlação, parametrização, CSV Data Set  
-- Master/Slaves (execução distribuída)  
-- Boas práticas de estrutura de teste  
-
-⭐ **CI/CD for Performance Tests (Azure DevOps)**
-➡️ https://github.com/alexamericob/perf-ci-cd-azuredevops  
-- Pipeline exemplo  
-- Execução automatizada  
-- Publicação de resultados/relatórios  
-
 ---
 
 ## ▶️ Como executar | Quick Run
