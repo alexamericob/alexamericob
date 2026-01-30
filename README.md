@@ -48,6 +48,7 @@ Performance Test Engineer focused on **load, stress, volume, and capacity testin
 ![Linux](https://img.shields.io/badge/Linux-OS-black)
 
 **Scripting:**  
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
 ![Python](https://img.shields.io/badge/Python-Automation-blue)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-lightgrey)
 ![Groovy](https://img.shields.io/badge/Groovy-JMeter%20Scripts-purple)
