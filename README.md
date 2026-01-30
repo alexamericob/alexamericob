@@ -5,6 +5,7 @@ Performance Test Engineer focado em **testes de carga, stress, volume e capacida
 🚀 Portfólio com scripts e exemplos práticos usando **k6** e **JMeter**, com foco em cenários reais e análise de métricas.
 
 📍 São Paulo, Brasil (UTC-3) | 🌍 Autorização de trabalho: **União Europeia (Cidadania Italiana)**
+
 🔗 LinkedIn: https://www.linkedin.com/in/alexamericob
 
 ---
